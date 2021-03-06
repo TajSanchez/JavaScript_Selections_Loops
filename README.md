@@ -24,6 +24,7 @@ In this exercise, you will be counting from 1 - 100. For each odd number, you wi
 ...
 ```
 
+
 ## Exercise 2: FIZZBUZZ
 
 FIZZBUZZ is a very common coding interview problem. Below are the instructions to solving the problem:
